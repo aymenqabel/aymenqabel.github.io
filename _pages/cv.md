@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download CV [here]("./files/cv.pdf")
+Download CV [here]("https://michailchatzianastasis.github.io/files/cv.pdf")
