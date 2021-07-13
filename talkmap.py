@@ -18,6 +18,7 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
+
 geocoder = Nominatim()
 location_dict = {}
 location = ""
@@ -37,6 +38,7 @@ for file in g:
            
         location_dict[location] = geocoder.geocode(location)
         print(location, "\n", location_dict[location])
+
 
 
 m = getorg.orgmap.create_map_obj()
