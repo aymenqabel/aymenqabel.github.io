@@ -1,5 +1,5 @@
 ---
-title: "Operation Embeddings for Neural Architecture Search"
+title: "TTOperation Embeddings for Neural Architecture Search"
 collection: publications
 permalink: /publication/operation_embeddings_for_nas
 excerpt: 
