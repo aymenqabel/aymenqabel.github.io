@@ -14,3 +14,4 @@ Geometric Algorithms](http://erga.di.uoa.gr/) at [National and Kapodistrian Univ
 
 My research focus on the field of machine learning for graph data. My goal is to explore new deep learning architectures for graphs and apply them to real-world applications like drug discovery and reccomendation systems.
 
+
