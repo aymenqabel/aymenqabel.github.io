@@ -6,7 +6,7 @@ excerpt: " We propose the replacement of fixed operator encoding with learnable 
 date: '2021-05-11'
 venue: arXiv preprint
 paperurl: 'https://arxiv.org/pdf/2105.04885.pdf'
-citation: 'Michail Chatzianastasis, George Dasoulas, Georgios Siolas, Michalis Vazirgiannis'
+citation: '<strong>Michail Chatzianastasis<strong>, George Dasoulas, Georgios Siolas, Michalis Vazirgiannis'
 ---
 
 
