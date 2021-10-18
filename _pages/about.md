@@ -17,8 +17,8 @@ I am also interested in <strong>AutoML and Neural Architecture Search</strong> a
 
 <h2> News </h2>
 <ul>
-  <li>We present our paper "Graph-based Neural Architecture Search with Operation Embeddings" at <a href="https://neural-architecture-ppf.github.io/">ICCV 2021 NAS Workshop </a>. 
-  <a href="https://arxiv.org/abs/2105.04885">Paper Link</a>  <a href="https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings">Code</a>  <a href="https://www.youtube.com/watch?v=-rZ4tpNvL6s&t=1s">Video</a>  <a href="https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings/blob/master/ Graph_based_neural_architecture_search_with_operation_embeddings_ICCV.pdf">Poster</a> 
+  <li>We present our paper <strong>"Graph-based Neural Architecture Search with Operation Embeddings"</strong> at <a href="https://neural-architecture-ppf.github.io/">ICCV 2021 NAS Workshop </a>. 
+  <a href="https://arxiv.org/abs/2105.04885">Paper</a>, <a href="https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings">Code</a>,  <a href="https://www.youtube.com/watch?v=-rZ4tpNvL6s&t=1s">Video</a>, <a href="https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings/blob/master/ Graph_based_neural_architecture_search_with_operation_embeddings_ICCV.pdf">Poster</a> 
   </li>
   <li> Here is a list of papers from <a href="https://iccv2021.thecvf.com/home"> ICCV 2021</a> that I collected in two topics: 1) Graph Neural Networks and 
   2) Neural Architecture Search. <a href="https://docs.google.com/document/d/1PwWbseAZPqZWjaoTCeN_ZWX6uo6sHq8Wj5HOLf8Lm40/edit">Papers List</a> 
