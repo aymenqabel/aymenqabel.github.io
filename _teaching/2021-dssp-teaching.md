@@ -2,7 +2,7 @@
 title: "Polytechnic Executive Education Program"
 collection: teaching
 type: "MSC course"
-#permalink: /teaching/2021-dssp-teaching
+permalink: /teaching/2021-dssp-teaching
 venue: "École Polytechnique"
 date: 2021-11-01 - 2021-12-15
 location: "Paris, France"
