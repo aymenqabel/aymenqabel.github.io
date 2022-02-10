@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Polytechnic Executive Education Program"
 collection: teaching
-type: "Workshop"
+type: ""
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "École Polytechnique"
+date: 2021-11-01 - 2021-12-15
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lab assistant in the course Big Data Course at Polytechnic Executive Education Program
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ 
