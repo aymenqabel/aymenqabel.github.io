@@ -17,6 +17,9 @@ I am also interested in <strong>AutoML and Neural Architecture Search</strong> a
 
 <h2> News </h2>
 <ul>
+  <li>
+  New paper Preprint: <strong><a href="https://github.com/MichailChatzianastasis/publication/goat">Graph Ordering Attention Networks</a> </strong> 
+  </li>
   <li>We present our paper <strong>"Graph-based Neural Architecture Search with Operation Embeddings"</strong> at <a href="https://neural-architecture-ppf.github.io/">ICCV 2021 NAS Workshop </a>. 
   <a href="https://arxiv.org/abs/2105.04885">Paper</a>, <a href="https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings">Code</a>,  <a href="https://www.youtube.com/watch?v=-rZ4tpNvL6s&t=1s">Video</a>, <a href="https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings/blob/master/ Graph_based_neural_architecture_search_with_operation_embeddings_ICCV.pdf">Poster</a> 
   </li>
