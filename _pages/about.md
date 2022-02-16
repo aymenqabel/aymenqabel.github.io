@@ -12,7 +12,7 @@ I am a first year PhD student at the [Data Science and Mining Team](http://www.l
 Geometric Algorithms](http://erga.di.uoa.gr/) at [National and Kapodistrian University of Athens](https://www.di.uoa.gr/en) under the supervision of  Prof. [Ioannis Emiris](https://scholar.google.gr/citations?user=ZK6y-cIAAAAJ&hl=en). I also successfully completed Google Summer of Code 2019, advised by Prof. [Iraklis Varlamis](https://scholar.google.gr/citations?user=SUyTkTAAAAAJ&hl=en)
 
 My research focus on the field of <strong>machine learning for graph-structured data</strong>. My goal is to explore novel deep learning architectures for graphs and apply them in real-world applications like drug discovery and reccomendation systems. Currently, I am researching new types of pooling aggregators in <strong>Graph Neural Networks (GNN)</strong> and how they affect the expressive power of GNNs.
-I am also interested in <strong>AutoML and Neural Architecture Search</strong> and I am researching how can they be applied in graph representation learning.  
+I am also interested in <strong>AutoML and Neural Architecture Search</strong> and I am researching how can we apply graph representation learning techniques in these domains.  
 
 
 <h2> News </h2>
