@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/goat
 excerpt: " We introduce the Graph Ordering Attention
 (GOAT) layer, a novel GNN component that learns local
-node orderings via an attention mechanism and processes the ordered representations using a recurrent neural network aggregator.[Read More](https://michailchatzianastasis.github.io/publication/goat) "
+node orderings via an attention mechanism and processes the ordered representations using a recurrent neural network aggregator. [Read More](https://michailchatzianastasis.github.io/publication/goat) "
 date: '2022-02-18'
 venue: 'Preprint'
 #video : 'https://www.youtube.com/watch?v=-rZ4tpNvL6s'
