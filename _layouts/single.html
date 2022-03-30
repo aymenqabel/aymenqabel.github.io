@@ -72,7 +72,23 @@ layout: default
         </p>
         {% endif %}
 
+        {% if page.figure_1 %}
 
+        <p>
+          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}" class="img-responsive" alt="Partial Information Decomposition" width="{{page.width_1}}" > </div>
+          <figcaption> <div> {{page.caption_1}} </div> </figcaption>
+        </p>
+        {% endif %}
+
+        {% if page.figure_2 %}
+        <p>
+          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_2}}" class="img-responsive" alt="Model Pipeline" width="{{page.width_2}}">  </div>
+          <figcaption> <div> 
+            {{page.caption_2}}
+          </div>
+          </figcaption>
+        </p>
+        {% endif %}
 
         </header>
       {% endunless %}
