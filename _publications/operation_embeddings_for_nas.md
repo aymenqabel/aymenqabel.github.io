@@ -24,7 +24,7 @@ architectures that share similar operation and graph patterns, highlighting a st
 "
 figure_1: "nas_pipeline.jpg"
 caption_1: "<strong>Workflow of Variational Graph Auto-Encoder for NAS with integration of Operation Embeddings</strong>. First, the corresponding directed acyclic graph $G_A=(A,\textbf{X})$ of the input architecture is constructed. Then, the operations $X$ are given as input in the operation embeddings layer, to obtain the embeddings $O(\textbf{X})$. Finally, the adjacency matrix and the operation embeddings are passed to the  auto-encoder." 
-width_1: 450
+width_1: 750
 ---
 
 
