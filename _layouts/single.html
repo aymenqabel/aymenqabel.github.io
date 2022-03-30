@@ -77,7 +77,7 @@ layout: default
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}"   alt="Partial Information Decomposition" width="300" height="600"> </div>
           <figcaption> <div> {{page.caption_1}} </div> </figcaption>
         </p>
-        {% elsif page.figure_1 }
+        {% elsif page.figure_1 %}
         <p>
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}"   alt="Partial Information Decomposition" width="300"> </div>
           <figcaption> <div> {{page.caption_1}} </div> </figcaption>
@@ -89,7 +89,7 @@ layout: default
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}"  alt="Model Pipeline" width="900" height="600"> </div>
           <figcaption> <div> {{page.caption_2}} </div> </figcaption>
         </p>
-        {% elsif page.figure_2 }
+        {% elsif page.figure_2 %}
         <p>
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}"   alt="Model Pipeline" width="300" > </div>
           <figcaption> <div> {{page.caption_2}} </div> </figcaption>
@@ -97,7 +97,7 @@ layout: default
         {% endif %}
 
         </header>
-      {% endif %}
+      {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
