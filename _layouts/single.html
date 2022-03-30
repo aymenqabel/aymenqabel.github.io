@@ -97,7 +97,7 @@ layout: default
         {% endif %}
 
         </header>
-      {% endunless %}
+      {% endif %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
@@ -132,7 +132,7 @@ layout: default
           {% include archive-single.html type="grid" %}
         {% endfor %}
       </div>
+      {% endif %}
     </div>
-  {% endif %}
 </div>
 
