@@ -65,7 +65,12 @@ layout: default
         {% if page.figure_1 %}
         <p>
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}" class="img-responsive" alt="Partial Information Decomposition"> </div>
-          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+          <figcaption>An illustration of the Partial Information Decomposition for the case of one central node and two neighbors. s. The
+            blue and the red circle represent the mutual information provided by the two neighbors about the central node. Each of these mutual information terms contains two atomic parts: $$I(u:v_1)$$ consists of the unique information in the $v_1$ neighbor $(U_{v_1}$, blue patch) and the information shared with $v_2$ neighbor ($R$, purple patch). Similarly, $I(u:v_2)$ consists of the unique
+            information in $v_2$ neighbor ($$U_{v_2}$$, red patch) and again the shared information $$R$$. 
+            The joint mutual information $$I(u : v_1,v_2)$$ is represented by the yellow box encompassing the inner two circles. 
+            $$I(u : v_1,v_2)$$ consists of four elements: the unique information in $v_1$ neighbor, the unique information in $$v_2$$ neighbor, the redundant information among the two neighbors and
+             additionally the synergistic information, $$ I(u : v_1,v_2) = U_{v_1} + U_{v_2} + R + S $$ </figcaption>
         </p>
         {% endif %}
 
