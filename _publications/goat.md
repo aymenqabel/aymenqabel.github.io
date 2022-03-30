@@ -22,5 +22,5 @@ figure_1: "goat_venn.jpg"
 width_1: 500
 figure_2: "goat_model.jpg"
 #caption_2: "An illustration of the aggregation and update of the representation of node \(v_i\) using a GOAT layer. A self-attention mechanism is used in order to obtain a ranking between the nodes of the neighborhood and then the ordered neighborhood is given as input into a sequence model (LSTM) to produce the updated representation of node \(v_i\)."
-#width_2 : "700"
+width_2 : 700
 ---
