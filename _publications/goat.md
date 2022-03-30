@@ -17,12 +17,6 @@ information-theoretic framework that notably includes synergistic information. D
 node orderings via an attention mechanism and processing the ordered representations using a recurrent neural network aggregator. This design allows
 us to make use of a permutation-sensitive aggregator while maintaining the permutation-equivariance of the proposed GOAT layer. The GOAT model demonstrates its increased performance in modeling graph metrics that capture complex information, such as the betweenness centrality and the effective size of a node. In practical use-cases, its superior modeling capability is confirmed through its success in several real-world node classification benchmarks.
 "
+figure_1: "./files/goat_venn.pdf"
+figure_2: "./files/goat_model.pdf"
 ---
-
-
-
-
-
-
-
-
