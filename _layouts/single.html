@@ -14,6 +14,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -63,12 +65,17 @@ layout: default
         {% if page.figure_1 %}
         <p>
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}" class="img-responsive" alt="Partial Information Decomposition"> </div>
+          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
         </p>
         {% endif %}
 
         {% if page.figure_2 %}
         <p>
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_2}}}" class="img-responsive" alt="Model Pipeline"> </div>
+          <figcaption> An illustration of the aggregation and update of the representation of node $$v_i$$ using a GOAT layer. A self-attention
+            mechanism is used in order to obtain a ranking between the nodes of the neighborhood and then the ordered neighborhood is
+            given as input into a sequence model (LSTM) to produce the updated representation of node $$v_i$$.
+          </figcaption>
         </p>
         {% endif %}
 
