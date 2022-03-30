@@ -26,6 +26,13 @@ layout: default
   </script>    
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"></script>
 
+<style>
+ 
+figcaption {
+    text-align: center;
+    }
+</style>
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -86,13 +93,16 @@ layout: default
 
         {% if page.figure_2 and page.width_2 %}
         <p>
-          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_2}}"  alt="Model Pipeline" width="{{page.width_2}}" height="2000px"> </div>
+          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_2}}"  alt="Model Pipeline" width="{{page.width_2}}" > </div>
           <figcaption> <div> {{page.caption_2}} </div> </figcaption>
         </p>
         {% elsif page.figure_2 %}
         <p>
           <img src="https://michailchatzianastasis.github.io/files/{{page.figure_2}}" alt="Model Pipeline" width="500" > </div>
-          <figcaption> <div> {{page.caption_2}} </div> </figcaption>
+          <figcaption > <div>
+          {{page.caption_2}}
+        </div> 
+      </figcaption>
         </p>
         {% endif %}
 

@@ -22,6 +22,9 @@ of the proposed operation embeddings to the generation
 of highly accurate models, achieving state-of-the-art performance. Finally, our method produces top-performing
 architectures that share similar operation and graph patterns, highlighting a strong correlation between architecture’s structural properties and performance
 "
+figure_1: "nas_pipeline.jpg"
+caption_1: "<strong>Workflow of Variational Graph Auto-Encoder for NAS with integration of Operation Embeddings</strong>. First, the corresponding directed acyclic graph $G_A=(A,\textbf{X})$ of the input architecture is constructed. Then, the operations $X$ are given as input in the operation embeddings layer, to obtain the embeddings $O(\textbf{X})$. Finally, the adjacency matrix and the operation embeddings are passed to the  auto-encoder." 
+width_1: 450
 ---
 
 
