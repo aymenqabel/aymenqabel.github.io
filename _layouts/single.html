@@ -75,7 +75,7 @@ layout: default
         {% if page.figure_1 %}
 
         <p>
-          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}" class="img-responsive" alt="Partial Information Decomposition" width=400 height=auto;> </div>
+          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_1}}" class="img-responsive" alt="Partial Information Decomposition" > </div>
           <figcaption> <div> An illustration of the Partial Information Decomposition for the case of one central node and two neighbors. s. The
             blue and the red circle represent the mutual information provided by the two neighbors about the central node. Each of these mutual information terms contains two atomic parts: \(I(u:v_1\) consists of the unique information in the $v_1$ neighbor $(U_{v_1}$, blue patch) and the information shared with $v_2$ neighbor ($R$, purple patch). Similarly, $I(u:v_2)$ consists of the unique
             information in \(v_2\) neighbor (\(U_{v_2}\), red patch) and again the shared information \(R\). 
@@ -87,7 +87,7 @@ layout: default
 
         {% if page.figure_2 %}
         <p>
-          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_2}}" class="img-responsive" alt="Model Pipeline" width=400 height=auto> </div>
+          <img src="https://michailchatzianastasis.github.io/files/{{page.figure_2}}" class="img-responsive" alt="Model Pipeline" > </div>
           <figcaption> <div> An illustration of the aggregation and update of the representation of node \(v_i\) using a GOAT layer. A self-attention
             mechanism is used in order to obtain a ranking between the nodes of the neighborhood and then the ordered neighborhood is
             given as input into a sequence model (LSTM) to produce the updated representation of node \(v_i\).
