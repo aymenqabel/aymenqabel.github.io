@@ -18,5 +18,18 @@ node orderings via an attention mechanism and processing the ordered representat
 us to make use of a permutation-sensitive aggregator while maintaining the permutation-equivariance of the proposed GOAT layer. The GOAT model demonstrates its increased performance in modeling graph metrics that capture complex information, such as the betweenness centrality and the effective size of a node. In practical use-cases, its superior modeling capability is confirmed through its success in several real-world node classification benchmarks.
 "
 figure_1: "goat_venn.jpg"
+caption_1: "An illustration of the Partial Information Decomposition for the case of one central node and two neighbors. s. The
+            blue and the red circle represent the mutual information provided by the two neighbors about the central node. Each of these mutual information terms contains two atomic parts: \(I(u:v_1\) consists of the unique information in the $v_1$ neighbor $(U_{v_1}$, blue patch) and the information shared with $v_2$ neighbor ($R$, purple patch). Similarly, $I(u:v_2)$ consists of the unique
+            information in \(v_2\) neighbor (\(U_{v_2}\), red patch) and again the shared information \(R\). 
+            The joint mutual information \(I(u : v_1,v_2)\) is represented by the yellow box encompassing the inner two circles. 
+            \(I(u : v_1,v_2)\) consists of four elements: the unique information in $v_1$ neighbor, the unique information in \(v_2\) neighbor, the redundant information among the two neighbors and
+             additionally the synergistic information, \( I(u : v_1,v_2) = U_{v_1} + U_{v_2} + R + S \)" 
+width_1: "500"
+
+
 figure_2: "goat_model.jpg"
+caption_2: "An illustration of the aggregation and update of the representation of node \(v_i\) using a GOAT layer. A self-attention
+            mechanism is used in order to obtain a ranking between the nodes of the neighborhood and then the ordered neighborhood is
+            given as input into a sequence model (LSTM) to produce the updated representation of node \(v_i\)."
+width_2 : "700"
 ---
