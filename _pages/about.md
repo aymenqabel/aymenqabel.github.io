@@ -26,6 +26,9 @@ I am also interested in <strong>AutoML and Neural Architecture Search</strong> a
   <li> Here is a list of papers from <a href="https://iccv2021.thecvf.com/home"> ICCV 2021</a> that I collected in two topics: 1) Graph Neural Networks and 
   2) Neural Architecture Search. <a href="https://docs.google.com/document/d/1PwWbseAZPqZWjaoTCeN_ZWX6uo6sHq8Wj5HOLf8Lm40/edit">Papers List</a> 
   </li>
+  <li>
+  2021-05-11 New paper Preprint: <strong><a href="https://michailchatzianastasis.github.io/publication/operation_embeddings_for_nas">Graph-based Neural Architecture Search with Operation Embeddings</a> </strong> 
+  </li>
 </ul>
 
 
