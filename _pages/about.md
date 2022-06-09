@@ -17,7 +17,7 @@ I am also interested in <strong>AutoML and Neural Architecture Search</strong> a
 
 <h2> News </h2>
 <ul>
-  <li> I will spend this summer at <a href="https://www.simonsfoundation.org/grant/2022-flatiron-machine-learning-x-science-summer-school/"> Flatiron's Machine Learning Summer School </a> in New York working on graph neural networks for cancer risk prediction.
+  <li> 2022-06-01 I will spend this summer at <a href="https://www.simonsfoundation.org/grant/2022-flatiron-machine-learning-x-science-summer-school/"> Flatiron's Machine Learning Summer School </a> in New York, working on graph neural networks for cancer risk prediction.
   <li>
   2022-02-16 New paper Preprint: <strong><a href="https://michailchatzianastasis.github.io/publication/goat">Graph Ordering Attention Networks</a> </strong> 
   </li>
