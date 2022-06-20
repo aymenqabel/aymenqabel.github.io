@@ -7,7 +7,7 @@ node orderings via an attention mechanism and processes the ordered representati
 date: '2022-02-18'
 venue: 'Preprint'
 #video : 'https://www.youtube.com/watch?v=-rZ4tpNvL6s'
-#code: 'https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings'
+code: 'https://github.com/MichailChatzianastasis/GOAT'
 paperurl: 'https://arxiv.org/abs/2204.05351'
 citation: '<strong>Michail Chatzianastasis</strong>, Johannes Lutzeyer, George Dasoulas, Michalis Vazirgiannis'
 abstract: "Graph Neural Networks (GNNs) have been successfully used in many problems involving graph-structured data, achieving state-of-the-art performance. GNNs typically employ a message-passing scheme, in which every node aggregates information from its neighbors using a permutation invariant aggregation function. Standard wellexamined choices like mean or sum aggregation functions have limited capabilities, as they are not able to capture interactions among neighbors. In this work, we formalize these interactions using an

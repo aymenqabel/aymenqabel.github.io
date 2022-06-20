@@ -8,6 +8,7 @@ venue: 'ICCV 2021 Workshop on Neural Architectures: Past, Present and Future'
 video : 'https://www.youtube.com/watch?v=-rZ4tpNvL6s'
 code: 'https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings'
 paperurl: 'https://arxiv.org/pdf/2105.04885.pdf'
+poster: 'https://github.com/MichailChatzianastasis/Graph-based_NAS_with_Operation_Embeddings/blob/master/Graph_based_neural_architecture_search_with_operation_embeddings_ICCV.pdf'
 citation: '<strong>Michail Chatzianastasis</strong>, George Dasoulas, Georgios Siolas, Michalis Vazirgiannis'
 abstract: " Neural Architecture Search (NAS) has recently gained
 increased attention, as a class of approaches that automatically searches in an input space of network architectures. A

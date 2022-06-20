@@ -53,7 +53,9 @@ figcaption {
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-	 {% if page.citation and page.paperurl and page.code and page.video %}
+  {% if page.citation and page.paperurl and page.code and page.video and page.poster %}
+  <p> {{ page.citation }} <a href="{{ page.paperurl }}">[Paper]</a> <a href="{{ page.code }}">[Code]</a> <a href="{{ page.video }}">[Video]</a> <a href="{{ page.poster }}">[Poster]</a> </p>
+	 {% elsif page.citation and page.paperurl and page.code and page.video %}
         <p> {{ page.citation }} <a href="{{ page.paperurl }}">[Paper]</a> <a href="{{ page.code }}">[Code]</a> <a href="{{ page.video }}">[Video]</a> </p>
         {% elsif page.citation and page.paperurl and page.code %}
         <p> {{ page.citation }} <a href="{{ page.paperurl }}">[Paper]</a> <a href="{{ page.code }}">[Code]</a></p>
