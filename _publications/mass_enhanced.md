@@ -11,7 +11,7 @@ venue: 'ICML 2022 Workshop on Computational Biology and 12th EETN Conference on 
 #video : 'https://www.youtube.com/watch?v=-rZ4tpNvL6s'
 code: 'https://github.com/MichailChatzianastasis/Mass-Enhanced-Node-Embeddings-for-Drug-Repurposing'
 #paperurl: 'https://arxiv.org/abs/2204.05351'
-#citation: '<strong>Michail Chatzianastasis</strong>, Johannes Lutzeyer, George Dasoulas, Michalis Vazirgiannis'
+citation: '<strong>Michail Chatzianastasis</strong>, Giannis Nikolentzos, Michalis Vazirgiannis'
 abstract: "Graph representation learning has recently emerged as a promising approach to solve pharmacological tasks by modeling biological networks.
 Among the different tasks, drug repurposing, the task of identifying new uses for approved or investigational drugs, has attracted a lot of attention recently.
 In this work, we propose a node embedding algorithm for the problem of drug repurposing.
