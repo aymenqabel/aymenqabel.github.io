@@ -30,7 +30,7 @@ I am also interested in <strong>AutoML and Neural Architecture Search</strong> a
   2) Neural Architecture Search. <a href="https://docs.google.com/document/d/1PwWbseAZPqZWjaoTCeN_ZWX6uo6sHq8Wj5HOLf8Lm40/edit">Papers List</a> 
   </li>
   <li>
-  <string> 2021-05-11 </strong> New paper Preprint: <strong><a href="https://michailchatzianastasis.github.io/publication/operation_embeddings_for_nas">Graph-based Neural Architecture Search with Operation Embeddings</a> </strong> 
+  <strong> 2021-05-11 </strong> New paper Preprint: <strong><a href="https://michailchatzianastasis.github.io/publication/operation_embeddings_for_nas">Graph-based Neural Architecture Search with Operation Embeddings</a> </strong> 
   </li>
 
 
