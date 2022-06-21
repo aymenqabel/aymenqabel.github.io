@@ -7,7 +7,8 @@ proposed algorithm learns node representations that capture the
 influence of nodes in the biological network by learning a mass term
 for each node along with its embedding. [Read More](https://michailchatzianastasis.github.io/publication/mass_enhanced)"
 date: '2022-06-10'
-venue: 'ICML 2022 Workshop on Computational Biology and 12th EETN Conference on Artificial Intelligence (SETN 2022)' 
+venue: ' <a href="https://icml-compbio.github.io">ICML 2022 Workshop on Computational Biology</a> and  <a href="https://hilab.di.ionio.gr/setn2022"> 12th EETN Conference on Artificial Intelligence (SETN 2022)</a> '
+
 #video : 'https://www.youtube.com/watch?v=-rZ4tpNvL6s'
 code: 'https://github.com/MichailChatzianastasis/Mass-Enhanced-Node-Embeddings-for-Drug-Repurposing'
 #paperurl: 'https://arxiv.org/abs/2204.05351'
@@ -16,7 +17,7 @@ abstract: "Graph representation learning has recently emerged as a promising app
 Among the different tasks, drug repurposing, the task of identifying new uses for approved or investigational drugs, has attracted a lot of attention recently.
 In this work, we propose a node embedding algorithm for the problem of drug repurposing.
 The proposed algorithm learns node representations that capture the influence of nodes in the biological network by learning a mass term for each node along with its embedding.
-We apply the proposed algorithm to a multiscale interactome network and embed its nodes (\ie proteins, drugs, diseases and biological functions) into a low-dimensional space.
+We apply the proposed algorithm to a multiscale interactome network and embed its nodes (i.e. proteins, drugs, diseases and biological functions) into a low-dimensional space.
 We evaluate the generated embeddings in the drug repurposing task.
 Our experiments show that the proposed approach outperforms the baselines and offers an improvement of 53.33% in average precision over typical walk-based embedding approaches.
 "
