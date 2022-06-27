@@ -17,7 +17,8 @@ I am also interested in <strong>AutoML and Neural Architecture Search</strong> a
 
 <h2> News </h2>
 <ul>
-  <li> <strong> 2022-06-13</strong> Pleased to anounce that our paper <strong> Mass Enhanced Node Embeddings for Drug Repurposing</strong> with Giannis Nikolentzos and Michalis Vazirgiannis, was accepted at ICML Workshop on Computational Biology 2022. 
+  <li> <strong> 2022-06-13</strong> Pleased to anounce that our paper <strong> <a href="https://www.biorxiv.org/content/10.1101/2022.06.22.497214v1"> Mass Enhanced Node Embeddings for Drug Repurposing </strong>
+  </a> </strong> with Giannis Nikolentzos and Michalis Vazirgiannis, was accepted at ICML Workshop on Computational Biology 2022. 
   <li> <strong> 2022-06-13</strong> I will be a reviewer at NeurIPS 2022 (5 papers).
   <li> <strong>2022-06-01</strong> I will spend this summer at <a href="https://www.simonsfoundation.org/grant/2022-flatiron-machine-learning-x-science-summer-school/"> Flatiron's Machine Learning Summer School </a> in New York, working on graph neural networks for cancer risk prediction.
   <li>
