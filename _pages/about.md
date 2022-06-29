@@ -17,6 +17,8 @@ I am also interested in <strong>AutoML and Neural Architecture Search</strong> a
 
 <h2> News </h2>
 <ul>
+  <li> <strong> 2022-06-28 </strong> We presented our paper <strong><a href="https://michailchatzianastasis.github.io/publication/goat">Graph Ordering Attention Networks</a> </strong> in the <strong><a href="https://hannes-stark.com/logag-reading-group">LoGaG: Learning on Graphs and Geometry Reading Group. <strong><a href="https://www.youtube.com/watch?v=9CJs5TL-CSs">Video</a> 
+</a> </strong>
   <li> <strong> 2022-06-13</strong> Pleased to anounce that our paper <strong> <a href="https://www.biorxiv.org/content/10.1101/2022.06.22.497214v1"> Mass Enhanced Node Embeddings for Drug Repurposing 
   </a> </strong> with Giannis Nikolentzos and Michalis Vazirgiannis, was accepted at ICML Workshop on Computational Biology 2022. 
   <li> <strong> 2022-06-13</strong> I will be a reviewer at NeurIPS 2022 (5 papers).
