@@ -2,7 +2,7 @@
 title: "Graph Ordering Attention Networks"
 collection: talks
 type: "Talk"
-permalink: https://www.youtube.com/watch?v=9CJs5TL-CSs
+permalink: (Youtube Video)[https://www.youtube.com/watch?v=9CJs5TL-CSs]
 venue: "LoGaG: Learning on Graphs and Geometry Reading Group"
 date: 2022-06-28
 ---
