@@ -11,6 +11,7 @@ venue: ' <a href="https://icml-compbio.github.io">ICML 2022 Workshop on Computat
 
 #video : 'https://www.youtube.com/watch?v=-rZ4tpNvL6s'
 code: 'https://github.com/MichailChatzianastasis/Mass-Enhanced-Node-Embeddings-for-Drug-Repurposing'
+blog: 'https://link.growkudos.com/1ebdw2pghz4'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.06.22.497214v1'
 citation: '<strong>Michail Chatzianastasis</strong>, Giannis Nikolentzos, Michalis Vazirgiannis'
 abstract: "Graph representation learning has recently emerged as a promising approach to solve pharmacological tasks by modeling biological networks.
