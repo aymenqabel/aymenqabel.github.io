@@ -56,7 +56,7 @@ figcaption {
   <p> {{ page.citation }} <a href="{{ page.paperurl }}">[Paper]</a> <a href="{{ page.code }}">[Code]</a> <a href="{{ page.video }}">[Video]</a> <a href="{{ page.poster }}">[Poster]</a> </p>
 	 {% elsif page.citation and page.paperurl and page.code and page.video %}
         <p> {{ page.citation }} <a href="{{ page.paperurl }}">[Paper]</a> <a href="{{ page.code }}">[Code]</a> <a href="{{ page.video }}">[Video]</a> </p>
-        {% elsif page.citation and page.paperurl and page.code and paper.blog %}
+        {% elsif page.citation and page.paperurl and page.code and page.blog %}
         <p> {{ page.citation }} <a href="{{ page.paperurl }}">[Paper]</a> <a href="{{ page.code }}">[Code]</a>  <a href="{{ page.blog }}">[Blog]</a> </p>
         {% elsif page.citation and page.paperurl and page.code %}
         <p> {{ page.citation }} <a href="{{ page.paperurl }}">[Paper]</a> <a href="{{ page.code }}">[Code]</a></p>
