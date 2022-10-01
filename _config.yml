@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michail Chatzianastasis"
+title                    : "Aymen Qabel"
 title_separator          : "-"
-name                     : &name "Michail Chatzianastasis"
-description              : &description "personal description"
-url                      : https://michailchatzianastasis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Aymen Qabel"
+description              : &description "MVA ENS/ CentraleSupélec (University of Paris-Saclay) master's student"
+url                      : https://aymenqabel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "michailchatzianastasis/michailchatzianastasis.github.io"
+repository               : "ayoumen/aymenqabel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michail Chatzianastasis"
+  name             : "Aymen Qabel"
   avatar           : "profile.png"
-  bio              : "PhD Student @ École polytechnique."
-  location         : "Paris,Franch"
+  bio              : "MVA ENS/ CentraleSupélec (University of Paris-Saclay) master's student."
+  location         : "Paris,France"
   employer         :
   pubmed           :  
-  googlescholar    : "https://scholar.google.com/citations?user=e0HbE2YAAAAJ&hl=en"
-  email            : "mixalisx97@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Michail-Chatzianastasis"
+  googlescholar    : 
+  email            : "aymen.qabel@student-cs.fr"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MichailChatzianastasis"
+  github           : "ayoumen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "michail-chatzianastasis"
+  linkedin         : "Mohamed-Aymen-Qabel"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :  
   steam            :
   tumblr           :
-  twitter          :  "MichailChatzia1"
+  twitter          :  "qabelaymen"
   vine             :
   weibo            :
   xing             :
