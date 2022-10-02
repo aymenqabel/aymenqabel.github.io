@@ -2,7 +2,7 @@
 title: "K-memBERT estimates cancer prognosis upon consultation"
 collection: publications
 permalink: /publication/kmembert
-excerpt: "We propose a transformer-based model for survival prediction. [Read More](https://ayoumen.github.io/publication/arg)"
+excerpt: "We propose a transformer-based model for survival prediction. [Read More](https://aymenqabel.github.io/publication/arg)"
 date: '2022-10-03'
 venue: 'Preprint'
 video : 

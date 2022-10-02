@@ -3,7 +3,7 @@ title: "Structure-Aware Antibiotic Resistance Classification
 using Graph Neural Networks"
 collection: publications
 permalink: /publication/arg
-excerpt: "We propose a novel deep learning model to classify Antibiotic Resistance using protein sequence and structure [Read More](https://ayoumen.github.io/publication/arg)"
+excerpt: "We propose a novel deep learning model to classify Antibiotic Resistance using protein sequence and structure [Read More](https://aymenqabel.github.io/publication/arg)"
 date: '2022-10-03'
 venue: 'Preprint'
 video : 
