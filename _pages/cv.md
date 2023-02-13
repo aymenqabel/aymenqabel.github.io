@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-My CV is available [here](https://aymenqabel.github.io/files/cv.pdf)
+My CV is available [here](https://aymenqabel.github.io/files/CV_Qabel_Aymen.pdf)
