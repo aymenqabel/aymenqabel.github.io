@@ -1,14 +1,14 @@
 ---
-title: "K-memBERT estimates cancer prognosis upon consultation"
+title: "An explainable language model predicts survival from medical reports in oncology"
 collection: publications
 permalink: /publication/kmembert
-excerpt: "We propose a transformer-based model for survival prediction. [Read More](https://aymenqabel.github.io/publication/arg)"
-date: '2022-10-03'
-venue: 'Preprint'
+excerpt: "We propose KmemBERT, an explainable transformer-based model that predicts survival from oncology medical reports. [Read More](https://aymenqabel.github.io/publication/kmembert)"
+date: '2025-08-27'
+venue: 'Preprint (co-first author)'
 video : 
 code: 
-paperurl: 
-citation: '<strong>Aymen Qabel</strong>, Loic Verlingue'
+paperurl: https://doi.org/10.21203/rs.3.rs-7121466/v1
+citation: 'Clément Piat, Quentin Blampey, Alexandre Joutard, <strong>Aymen Qabel</strong>, Théo Di Piazza, Ugo Benassayag, Raphael Vienne, Raphael Reme, Daphné Morel, Maxime Choffe, Eric Deutsch, Jean-Yves Blay, Loic Verlingue'
 abstract: "Prognosis estimation is one of the major components to take into account to guide therapeutic strategy of patients with cancer. Various data types have been used for prognostic estimation of patients affected by cancer but clinical documents have been under evaluated for this task, although it is the basic working material for physicians.
 
 We fine-tuned and adapted CamemBERT, a French Transformer (a type of deep learning model for free text data), to predict the time to death of patients from Gustave Roussy Cancer Center (GR). Training, validation and test sets followed an 88-02-10 random split rule on individual patients. We introduced three different workflows evaluated on the validation set: (1) K-memBERT-base that takes one single document as input, (2) K-memBERT-conflation that aggregates multiple K-memBERT-base predictions with conflation, and (3) K-memBERT-T2 that stacks two transformers architecture to input a sequence of medical reports. CamemBERT-base and a Random Forest model were used as control. We then externally tested the performance of the best model on a cohort of patients of the Centre Léon Bérard (CLB). 

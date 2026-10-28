@@ -1,14 +1,13 @@
 ---
-title: "Structure-Aware Antibiotic Resistance Classification
-using Graph Neural Networks"
+title: "Structure-Aware Antibiotic Resistance Classification using Graph Neural Networks"
 collection: publications
 permalink: /publication/arg
 excerpt: "We propose a novel deep learning model to classify Antibiotic Resistance using protein sequence and structure [Read More](https://aymenqabel.github.io/publication/arg)"
-date: '2022-10-03'
-venue: 'Accepted at AI4Science at Neurips 2022'
+date: '2022-10-21'
+venue: 'NeurIPS 2022 AI4Science Workshop'
 video : 
 code: 
-paperurl: https://www.biorxiv.org/content/10.1101/2022.10.06.511103v1
+paperurl: https://openreview.net/forum?id=_BjtIlib8N9
 citation: '<strong>Aymen Qabel</strong>, Michalis Vazirgiannis'
 abstract: "Antibiotics are traditionally used to treat bacterial infections. However, bacteria can develop immunity to drugs, making them ineffective and thus posing a serious threat to global health. Identifying and classifying the genes responsible for this resistance is critical for the prevention, diagnosis, and treatment of infections as well as the understanding of its mechanisms. Previous methods developed for this purpose have mostly been sequence-based, relying on comparison to existing databases or machine learning models trained on sequence features. However, genes with comparable functions may not always have similar sequences. As a result, in this paper, we develop a deep learning model that uses the protein structure as a complement to the sequence to classify novel ARGs (antibiotic resistant genes), which we expect to provide more useful information than the sequence alone. The proposed approach consists of two steps. First, we capitalize on the celebrated AlphaFold model to predict the 3D structure of a protein from its amino acid sequence. Then, we process the sequence using a transformers-based language model while we also apply a graph neural network to the graph extracted from the structure. We evaluate the proposed architecture on a standard benchmark dataset where it outperforms state-of-the-art methods.
 "
