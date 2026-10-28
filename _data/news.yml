@@ -1,0 +1,24 @@
+# News items for the homepage, newest first.
+# The first 5 are shown; the rest go under "Older news".
+# `text` accepts HTML.
+
+- date: "Aug 2026"
+  text: 'Wrapped up my summer as a Quantitative Researcher intern at <a href="https://optiver.com/">Optiver</a> in Chicago.'
+
+- date: "Apr 2026"
+  text: 'New preprint: <a href="https://arxiv.org/abs/2604.18559"><strong>ConforNets: Latents-Based Conformational Control in OpenFold3</strong></a>.'
+
+- date: "Oct 2025"
+  text: '<a href="https://github.com/aqlaboratory/openfold-3"><strong>OpenFold3-preview</strong></a>, an open-source reproduction of AlphaFold3, is released.'
+
+- date: "Aug 2025"
+  text: 'New preprint: <a href="https://doi.org/10.21203/rs.3.rs-7121466/v1"><strong>An explainable language model predicts survival from medical reports in oncology</strong></a>.'
+
+- date: "Sep 2023"
+  text: 'Started my Ph.D. in Computer Science at Columbia University.'
+
+- date: "Oct 2022"
+  text: 'Our paper <a href="https://openreview.net/forum?id=_BjtIlib8N9"><strong>Structure-Aware Antibiotic Resistance Classification using Graph Neural Networks</strong></a> was accepted at the NeurIPS 2022 AI4Science Workshop.'
+
+- date: "Jul 2022"
+  text: 'Presented a poster at the <a href="https://www.ip-paris.fr/en/e4h-1st-annuel-forum-programme">Engineering For Health (E4H)</a> symposium at École Polytechnique on Graph Neural Networks in biology.'

@@ -1,6 +1,7 @@
 ---
 title: "OpenFold3-preview"
 collection: publications
+short: "OpenFold3"
 permalink: /publication/openfold3
 excerpt: "An open-source, trainable reproduction of AlphaFold3 for joint 3D structure prediction of proteins, nucleic acids, ligands and their complexes. [Read More](https://aymenqabel.github.io/publication/openfold3)"
 date: '2025-10-30'

@@ -1,6 +1,7 @@
 ---
 title: "ConforNets: Latents-Based Conformational Control in OpenFold3"
 collection: publications
+short: "ConforNets"
 permalink: /publication/confornets
 excerpt: "We introduce ConforNets, channel-wise affine transforms of OpenFold3's pair latents that steer predictions toward alternative protein conformations. [Read More](https://aymenqabel.github.io/publication/confornets)"
 date: '2026-04-20'

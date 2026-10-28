@@ -1,4 +1,21 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  document.querySelectorAll(".theme-toggle").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", next);
+      localStorage.setItem("theme", next);
+    });
+  });
+  document.querySelectorAll(".pub__btn--abstract").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var box = document.getElementById(btn.getAttribute("aria-controls"));
+      var open = box.classList.toggle("is-open");
+      btn.setAttribute("aria-expanded", open);
+    });
+  });
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

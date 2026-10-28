@@ -1,6 +1,7 @@
 ---
 title: "An explainable language model predicts survival from medical reports in oncology"
 collection: publications
+short: "KmemBERT"
 permalink: /publication/kmembert
 excerpt: "We propose KmemBERT, an explainable transformer-based model that predicts survival from oncology medical reports. [Read More](https://aymenqabel.github.io/publication/kmembert)"
 date: '2025-08-27'
